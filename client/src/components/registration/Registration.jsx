@@ -6,10 +6,10 @@ const Registration = () => {
     return (
         <div className='registration'>
             <div className="registration_header">Регистрация</div>
-            <Input/>
-            <Input/>
-            <Input/>
-            <Input/>
+            <Input type="text" placeholder=""/>
+            <Input type="text" placeholder=""/>
+            <Input type="text" placeholder=""/>
+            <Input type="text" placeholder=""/>
             <button className="registration_btn">Войти</button>
         </div>
     );
