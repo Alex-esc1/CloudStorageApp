@@ -1,5 +1,6 @@
 {
     "serverPort" : 5000,
     "dbUrl" : "mongodb://0.0.0.0:27017/",
-    "secretKey": "secretKey-MERN"
+    "secretKey": "secretKey-MERN",
+    "filePath": "C:\\"
 }
